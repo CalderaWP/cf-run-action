@@ -40,7 +40,8 @@ module.exports = function (grunt) {
                     '!.gitattributes',
                     '!composer.lock',
                     '!naming-conventions.txt',
-                    '!how-to-grunt.md'
+                    '!how-to-grunt.md',
+                    '!build'
                 ],
                 dest: 'build/'
             }
