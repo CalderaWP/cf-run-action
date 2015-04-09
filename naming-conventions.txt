@@ -1,0 +1,6 @@
+Plugin Name -- Caldera Entry Limiter
+Text domain -- cf-entry-limiter
+Function prefix -- cf_entry_limiter
+Class prefix - n/a
+Root namespace -- n/a
+Filter Prefix -- cf_entry_limiter

@@ -1,0 +1,17 @@
+{
+  "name": "calderawp/cf-run-action",
+  "description": "Trigger an action with your form submission.",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "wordpress",
+    "caldera"
+  ],
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "David Cramer",
+      "homepage": "http://cramer.co.za",
+      "role": "Lead Developer"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-=== Caldera Forms Do Action ===
+=== Caldera Forms Run Action ===
 Contributors: Desertsnowman, Shelob9
 Tags: caldera forms,
 Requires at least: 3.9
