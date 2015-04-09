@@ -11,9 +11,8 @@
  */
 
 
-
-// add filters
 add_filter('caldera_forms_get_form_processors', 'cf_run_action_register_processor');
+
 function cf_run_action_register_processor($pr){
 	$pr['run_action'] = array(
 		"name"              =>  __('Run Action'),
@@ -38,7 +37,3 @@ function cf_run_action_process($config, $form){
 }
 
 
-add_action('my_text_action', 'my_test_function');
-function my_test_function($data){
-	update_option('test_form_option', $data);
-}
