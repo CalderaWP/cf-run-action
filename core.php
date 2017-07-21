@@ -44,6 +44,8 @@ function cf_run_action_register_processor($pr){
  *
  * @param array $config Processor settings. Key 'action' has action name.
  * @param array $form Form submission data.
+ *
+ * @return void|mixed
  */
 function cf_run_action_pre_process( $config, $form){
 	
@@ -87,6 +89,8 @@ function cf_run_action_pre_process( $config, $form){
  *
  * @param array $config Processor settings. Key 'action' has action name.
  * @param array $form Form submission data.
+ *
+ * @return void|mixed
  */
 function cf_run_action_process( $config, $form){
 
@@ -132,7 +136,7 @@ function cf_run_action_process( $config, $form){
  * @param array $config Processor settings. Key 'action' has action name.
  * @param array $form Form submission data.
  *
- * @return  void|mixed
+ * @return void|mixed
  */
 function cf_run_action_post_process( $config, $form){
 	
