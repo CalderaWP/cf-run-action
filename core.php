@@ -3,7 +3,7 @@
  * Plugin Name: Caldera Forms - Run Action
  * Plugin URI:  
  * Description: Runs an action on submit
- * Version: 1.0.2
+ * Version: 1.0.1
  * Author:     Caldera Labs
  * Author URI: https://calderaforms.com
  * License:     GPL-2.0+
