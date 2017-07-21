@@ -10,7 +10,7 @@ Donate Link: https://paypal.me/calderawp
 Trigger an action with your form submission.
 
 == Description ==
-A free add-on for [https://calderaforms.com?utm_source=dotOrg&utm_medium=plugins&utm_campaign=cf-run-action](Caldera Forms). A simple, free form processor that lets you do anything with your form data, by specifying an action to run on form submission.
+A free add-on for [Caldera Forms](https://calderaforms.com/pro?utm_source=dotOrg&utm_medium=plugins&utm_campaign=caldera-forms-pdf). A simple, free form processor that lets you do anything with your form data, by specifying an action to run on form submission.
 
 == Installation ==
 Install & Activate the plugin through the 'Plugins' menu in WordPress
