@@ -131,10 +131,12 @@ function cf_run_action_process( $config, $form){
  *
  * @param array $config Processor settings. Key 'action' has action name.
  * @param array $form Form submission data.
+ *
+ * @return  void|mixed
  */
 function cf_run_action_post_process( $config, $form){
 	
-	// comatability with old version and standard check.
+	// Compatibility with old version and standard check.
 	if( !isset( $config['position'] ) || $config['position'] !== 'post' ){
 		return;
 	}	
